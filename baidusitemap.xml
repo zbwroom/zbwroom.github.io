@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/07/23/%E5%93%88%E5%93%88/</loc>
+    <lastmod>2017-07-23T10:24:37.055Z</lastmod>
+    <data>
+        <display>
+        <title>nice to meet you</title>
+        <pubTime>2017-07-23T09:55:59.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="技术" url="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="生活" url="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/"/>
+          
+             
+              <breadCrumb title="音乐" url="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/%E9%9F%B3%E4%B9%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/07/23/hello-world/</loc>
+    <lastmod>2017-07-23T09:10:12.228Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-07-23T09:10:12.228Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
